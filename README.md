@@ -1,2 +1,1 @@
-# deploy-pipeline-smoke-test-sdk
-Smoke test del pipeline de deploy, sin FORGE ni Claude.
+# Deploy Pipeline Smoke Test\n\nAsset sintetico, escrito a mano, para validar el pipeline de deploy (GitHub + Railway) sin gastar creditos de Claude. No es un producto real -- generado el 2026-07-05 16:57 UTC.\n
